@@ -5,12 +5,14 @@ html, body {
   overflow: hidden;
   background: black;
   display: flex;
+  flex-direction: column;
 }
 canvas {
   margin: auto;
 }
 .color-picker {
   color: white;
+  display: flex;
 }
 label {
   display: flex;
