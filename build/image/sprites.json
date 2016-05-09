@@ -2,8 +2,8 @@
     "frames": {
         "../img/actor/cat/walk/e/0000": {
             "frame": {
-                "x": 16,
-                "y": 0,
+                "x": 96,
+                "y": 24,
                 "w": 16,
                 "h": 24
             },
@@ -22,8 +22,8 @@
         },
         "../img/actor/cat/walk/e/0001": {
             "frame": {
-                "x": 80,
-                "y": 0,
+                "x": 96,
+                "y": 48,
                 "w": 16,
                 "h": 24
             },
@@ -42,8 +42,8 @@
         },
         "../img/actor/cat/walk/e/0002": {
             "frame": {
-                "x": 32,
-                "y": 0,
+                "x": 0,
+                "y": 88,
                 "w": 16,
                 "h": 24
             },
@@ -62,8 +62,8 @@
         },
         "../img/actor/cat/walk/e/0003": {
             "frame": {
-                "x": 0,
-                "y": 24,
+                "x": 16,
+                "y": 88,
                 "w": 16,
                 "h": 24
             },
@@ -82,8 +82,8 @@
         },
         "../img/actor/cat/walk/e/0004": {
             "frame": {
-                "x": 16,
-                "y": 24,
+                "x": 32,
+                "y": 88,
                 "w": 16,
                 "h": 24
             },
@@ -102,8 +102,8 @@
         },
         "../img/actor/cat/walk/e/0005": {
             "frame": {
-                "x": 32,
-                "y": 24,
+                "x": 48,
+                "y": 88,
                 "w": 16,
                 "h": 24
             },
@@ -122,8 +122,8 @@
         },
         "../img/actor/cat/walk/n/0000": {
             "frame": {
-                "x": 48,
-                "y": 0,
+                "x": 64,
+                "y": 88,
                 "w": 16,
                 "h": 24
             },
@@ -142,8 +142,8 @@
         },
         "../img/actor/cat/walk/n/0001": {
             "frame": {
-                "x": 48,
-                "y": 24,
+                "x": 64,
+                "y": 0,
                 "w": 16,
                 "h": 24
             },
@@ -162,8 +162,8 @@
         },
         "../img/actor/cat/walk/n/0002": {
             "frame": {
-                "x": 64,
-                "y": 0,
+                "x": 96,
+                "y": 88,
                 "w": 16,
                 "h": 24
             },
@@ -182,8 +182,8 @@
         },
         "../img/actor/cat/walk/n/0003": {
             "frame": {
-                "x": 64,
-                "y": 24,
+                "x": 112,
+                "y": 0,
                 "w": 16,
                 "h": 24
             },
@@ -202,8 +202,8 @@
         },
         "../img/actor/cat/walk/n/0004": {
             "frame": {
-                "x": 0,
-                "y": 48,
+                "x": 112,
+                "y": 24,
                 "w": 16,
                 "h": 24
             },
@@ -222,7 +222,7 @@
         },
         "../img/actor/cat/walk/n/0005": {
             "frame": {
-                "x": 16,
+                "x": 112,
                 "y": 48,
                 "w": 16,
                 "h": 24
@@ -240,209 +240,29 @@
                 "h": 24
             }
         },
-        "../img/actor/cat/walk/ne/ne0000": {
-            "frame": {
-                "x": 32,
-                "y": 48,
-                "w": 16,
-                "h": 24
-            },
-            "rotated": false,
-            "trimmed": false,
-            "spriteSourceSize": {
-                "x": 0,
-                "y": 0,
-                "w": 16,
-                "h": 24
-            },
-            "sourceSize": {
-                "w": 16,
-                "h": 24
-            }
-        },
-        "../img/actor/cat/walk/ne/ne0001": {
-            "frame": {
-                "x": 48,
-                "y": 48,
-                "w": 16,
-                "h": 24
-            },
-            "rotated": false,
-            "trimmed": false,
-            "spriteSourceSize": {
-                "x": 0,
-                "y": 0,
-                "w": 16,
-                "h": 24
-            },
-            "sourceSize": {
-                "w": 16,
-                "h": 24
-            }
-        },
-        "../img/actor/cat/walk/ne/ne0002": {
-            "frame": {
-                "x": 64,
-                "y": 48,
-                "w": 16,
-                "h": 24
-            },
-            "rotated": false,
-            "trimmed": false,
-            "spriteSourceSize": {
-                "x": 0,
-                "y": 0,
-                "w": 16,
-                "h": 24
-            },
-            "sourceSize": {
-                "w": 16,
-                "h": 24
-            }
-        },
-        "../img/actor/cat/walk/ne/ne0003": {
-            "frame": {
-                "x": 0,
-                "y": 0,
-                "w": 16,
-                "h": 24
-            },
-            "rotated": false,
-            "trimmed": false,
-            "spriteSourceSize": {
-                "x": 0,
-                "y": 0,
-                "w": 16,
-                "h": 24
-            },
-            "sourceSize": {
-                "w": 16,
-                "h": 24
-            }
-        },
-        "../img/actor/cat/walk/ne/ne0004": {
-            "frame": {
-                "x": 80,
-                "y": 24,
-                "w": 16,
-                "h": 24
-            },
-            "rotated": false,
-            "trimmed": false,
-            "spriteSourceSize": {
-                "x": 0,
-                "y": 0,
-                "w": 16,
-                "h": 24
-            },
-            "sourceSize": {
-                "w": 16,
-                "h": 24
-            }
-        },
-        "../img/actor/cat/walk/ne/ne0005": {
-            "frame": {
-                "x": 80,
-                "y": 48,
-                "w": 16,
-                "h": 24
-            },
-            "rotated": false,
-            "trimmed": false,
-            "spriteSourceSize": {
-                "x": 0,
-                "y": 0,
-                "w": 16,
-                "h": 24
-            },
-            "sourceSize": {
-                "w": 16,
-                "h": 24
-            }
-        },
-        "../img/actor/cat/walk/s/s0000": {
-            "frame": {
-                "x": 96,
-                "y": 0,
-                "w": 16,
-                "h": 24
-            },
-            "rotated": false,
-            "trimmed": false,
-            "spriteSourceSize": {
-                "x": 0,
-                "y": 0,
-                "w": 16,
-                "h": 24
-            },
-            "sourceSize": {
-                "w": 16,
-                "h": 24
-            }
-        },
-        "../img/actor/cat/walk/s/s0001": {
-            "frame": {
-                "x": 96,
-                "y": 24,
-                "w": 16,
-                "h": 24
-            },
-            "rotated": false,
-            "trimmed": false,
-            "spriteSourceSize": {
-                "x": 0,
-                "y": 0,
-                "w": 16,
-                "h": 24
-            },
-            "sourceSize": {
-                "w": 16,
-                "h": 24
-            }
-        },
-        "../img/actor/cat/walk/s/s0002": {
-            "frame": {
-                "x": 96,
-                "y": 48,
-                "w": 16,
-                "h": 24
-            },
-            "rotated": false,
-            "trimmed": false,
-            "spriteSourceSize": {
-                "x": 0,
-                "y": 0,
-                "w": 16,
-                "h": 24
-            },
-            "sourceSize": {
-                "w": 16,
-                "h": 24
-            }
-        },
-        "../img/actor/cat/walk/s/s0003": {
-            "frame": {
-                "x": 96,
-                "y": 72,
-                "w": 16,
-                "h": 24
-            },
-            "rotated": false,
-            "trimmed": false,
-            "spriteSourceSize": {
-                "x": 0,
-                "y": 0,
-                "w": 16,
-                "h": 24
-            },
-            "sourceSize": {
-                "w": 16,
-                "h": 24
-            }
-        },
-        "../img/actor/cat/walk/s/s0004": {
+        "../img/actor/cat/walk/ne/0000": {
             "frame": {
                 "x": 112,
+                "y": 72,
+                "w": 16,
+                "h": 24
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 24
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 24
+            }
+        },
+        "../img/actor/cat/walk/ne/0001": {
+            "frame": {
+                "x": 128,
                 "y": 0,
                 "w": 16,
                 "h": 24
@@ -460,9 +280,9 @@
                 "h": 24
             }
         },
-        "../img/actor/cat/walk/s/s0005": {
+        "../img/actor/cat/walk/ne/0002": {
             "frame": {
-                "x": 112,
+                "x": 128,
                 "y": 24,
                 "w": 16,
                 "h": 24
@@ -480,9 +300,29 @@
                 "h": 24
             }
         },
-        "../img/actor/cat/walk/se/se0000": {
+        "../img/actor/cat/walk/ne/0003": {
             "frame": {
+                "x": 128,
+                "y": 48,
+                "w": 16,
+                "h": 24
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
                 "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 24
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 24
+            }
+        },
+        "../img/actor/cat/walk/ne/0004": {
+            "frame": {
+                "x": 128,
                 "y": 72,
                 "w": 16,
                 "h": 24
@@ -500,10 +340,30 @@
                 "h": 24
             }
         },
-        "../img/actor/cat/walk/se/se0001": {
+        "../img/actor/cat/walk/ne/0005": {
+            "frame": {
+                "x": 0,
+                "y": 112,
+                "w": 16,
+                "h": 24
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 24
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 24
+            }
+        },
+        "../img/actor/cat/walk/s/0000": {
             "frame": {
                 "x": 16,
-                "y": 72,
+                "y": 112,
                 "w": 16,
                 "h": 24
             },
@@ -520,10 +380,10 @@
                 "h": 24
             }
         },
-        "../img/actor/cat/walk/se/se0002": {
+        "../img/actor/cat/walk/s/0001": {
             "frame": {
                 "x": 32,
-                "y": 72,
+                "y": 112,
                 "w": 16,
                 "h": 24
             },
@@ -540,10 +400,10 @@
                 "h": 24
             }
         },
-        "../img/actor/cat/walk/se/se0003": {
+        "../img/actor/cat/walk/s/0002": {
             "frame": {
                 "x": 48,
-                "y": 72,
+                "y": 112,
                 "w": 16,
                 "h": 24
             },
@@ -560,10 +420,10 @@
                 "h": 24
             }
         },
-        "../img/actor/cat/walk/se/se0004": {
+        "../img/actor/cat/walk/s/0003": {
             "frame": {
                 "x": 64,
-                "y": 72,
+                "y": 112,
                 "w": 16,
                 "h": 24
             },
@@ -580,10 +440,10 @@
                 "h": 24
             }
         },
-        "../img/actor/cat/walk/se/se0005": {
+        "../img/actor/cat/walk/s/0004": {
             "frame": {
                 "x": 80,
-                "y": 72,
+                "y": 112,
                 "w": 16,
                 "h": 24
             },
@@ -598,6 +458,446 @@
             "sourceSize": {
                 "w": 16,
                 "h": 24
+            }
+        },
+        "../img/actor/cat/walk/s/0005": {
+            "frame": {
+                "x": 96,
+                "y": 112,
+                "w": 16,
+                "h": 24
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 24
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 24
+            }
+        },
+        "../img/actor/cat/walk/se/0000": {
+            "frame": {
+                "x": 112,
+                "y": 112,
+                "w": 16,
+                "h": 24
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 24
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 24
+            }
+        },
+        "../img/actor/cat/walk/se/0001": {
+            "frame": {
+                "x": 128,
+                "y": 112,
+                "w": 16,
+                "h": 24
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 24
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 24
+            }
+        },
+        "../img/actor/cat/walk/se/0002": {
+            "frame": {
+                "x": 32,
+                "y": 64,
+                "w": 16,
+                "h": 24
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 24
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 24
+            }
+        },
+        "../img/actor/cat/walk/se/0003": {
+            "frame": {
+                "x": 16,
+                "y": 64,
+                "w": 16,
+                "h": 24
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 24
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 24
+            }
+        },
+        "../img/actor/cat/walk/se/0004": {
+            "frame": {
+                "x": 0,
+                "y": 64,
+                "w": 16,
+                "h": 24
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 24
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 24
+            }
+        },
+        "../img/actor/cat/walk/se/0005": {
+            "frame": {
+                "x": 144,
+                "y": 0,
+                "w": 16,
+                "h": 24
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 24
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 24
+            }
+        },
+        "../img/actor/jelly/0000": {
+            "frame": {
+                "x": 48,
+                "y": 64,
+                "w": 16,
+                "h": 24
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 24
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 24
+            }
+        },
+        "../img/actor/jelly/0001": {
+            "frame": {
+                "x": 80,
+                "y": 88,
+                "w": 16,
+                "h": 24
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 24
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 24
+            }
+        },
+        "../img/actor/jelly/0002": {
+            "frame": {
+                "x": 64,
+                "y": 64,
+                "w": 16,
+                "h": 24
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 24
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 24
+            }
+        },
+        "../img/actor/jelly/0003": {
+            "frame": {
+                "x": 80,
+                "y": 64,
+                "w": 16,
+                "h": 24
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 24
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 24
+            }
+        },
+        "../img/actor/jelly/0004": {
+            "frame": {
+                "x": 96,
+                "y": 0,
+                "w": 16,
+                "h": 24
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 24
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 24
+            }
+        },
+        "../img/actor/jelly/0005": {
+            "frame": {
+                "x": 64,
+                "y": 24,
+                "w": 16,
+                "h": 24
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 24
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 24
+            }
+        },
+        "../img/actor/jelly/0006": {
+            "frame": {
+                "x": 80,
+                "y": 0,
+                "w": 16,
+                "h": 24
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 24
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 24
+            }
+        },
+        "../img/actor/jelly/0007": {
+            "frame": {
+                "x": 80,
+                "y": 24,
+                "w": 16,
+                "h": 24
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 24
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 24
+            }
+        },
+        "../img/actor/weapons/crystal-bomb": {
+            "frame": {
+                "x": 144,
+                "y": 24,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            }
+        },
+        "../img/actor/weapons/rapier": {
+            "frame": {
+                "x": 144,
+                "y": 40,
+                "w": 12,
+                "h": 4
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 12,
+                "h": 4
+            },
+            "sourceSize": {
+                "w": 12,
+                "h": 4
+            }
+        },
+        "../img/actor/weapons/small-explosion/0000": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "../img/actor/weapons/small-explosion/0001": {
+            "frame": {
+                "x": 32,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "../img/actor/weapons/small-explosion/0002": {
+            "frame": {
+                "x": 0,
+                "y": 32,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "../img/actor/weapons/small-explosion/0003": {
+            "frame": {
+                "x": 32,
+                "y": 32,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "../img/actor/weapons/small-projectile": {
+            "frame": {
+                "x": 144,
+                "y": 44,
+                "w": 5,
+                "h": 5
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 5,
+                "h": 5
+            },
+            "sourceSize": {
+                "w": 5,
+                "h": 5
             }
         }
     },
@@ -606,8 +906,8 @@
         "image": "sprites.png",
         "format": "RGBA8888",
         "size": {
-            "w": 128,
-            "h": 96
+            "w": 160,
+            "h": 136
         },
         "scale": 1
     }
